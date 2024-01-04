@@ -1,0 +1,130 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="e91339714355deb735c83d639e371b09" tvg-name="Dunia Lain" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Lokal",Dunia Lain
+http://10.0.250.238:9981/stream/channelid/1899566057?ticket=6C332EAC6B28E9351D61B33A1F030BB784E69E0D&profile=pass
+#EXTINF:-1 tvg-id="4d1f9865989302894f213c3bd4844320" tvg-name="JOWO TV" tvg-logo="" group-title="Lokal",JOWO TV
+http://10.0.250.238:9981/stream/channelid/1704468301?ticket=9029A35281840FBC1C8E537EB7172D0C5AF1E1DC&profile=pass
+#EXTINF:-1 tvg-id="3d880f3ea232a5894c1dc8684b03c1ec" tvg-name="SCTV" tvg-logo="http://info.iptvjoss.com/sctv.png" group-title="Lokal",SCTV
+http://10.0.250.238:9981/stream/channelid/1041205309?ticket=82AEA84AEA79AFCDA63A26D626BCB76E80D87A98&profile=pass
+#EXTINF:-1 tvg-id="8fb260ef188588b02262b0d65d069ba2" tvg-name="Sport-TV1 Euro 2020" tvg-logo="" group-title="Sport",Sport-TV1 Euro 2020
+http://10.0.250.238:9981/stream/channelid/1868608143?ticket=132F8170B3CB01326DF41814DB02363CFE984D4D&profile=pass
+#EXTINF:-1 tvg-id="3bd943dc258cead01452dfb9ddebf667" tvg-name="ANTV" tvg-logo="http://info.iptvjoss.com/antv.png" group-title="Lokal",ANTV
+http://10.0.250.238:9981/stream/channelid/1547950395?ticket=C1410D8F70E5FF72392B3BC72C02FB1027B270E8&profile=pass
+#EXTINF:-1 tvg-id="742c6152794a44174af7cc3166e85f09" tvg-name="INDOSIAR" tvg-logo="http://info.iptvjoss.com/indosiar.png" group-title="Lokal",INDOSIAR
+http://10.0.250.238:9981/stream/channelid/1382100084?ticket=D4A92940847A2EEE363B0ADE10E1652D342342F3&profile=pass
+#EXTINF:-1 tvg-id="52063df9d8e4e096d15cfd1f47cd8d22" tvg-name="JAK TV" tvg-logo="" group-title="Lokal",JAK TV
+http://10.0.250.238:9981/stream/channelid/2034042450?ticket=E3A2AF3FC77C49D35ABE93BF96BB7164015802C3&profile=pass
+#EXTINF:-1 tvg-id="51fc9134d6464a69a21503fd0406b952" tvg-name="Kompas TV" tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="Lokal",Kompas TV
+http://10.0.250.238:9981/stream/channelid/881982545?ticket=AE9FB63FEA014280E5C79CB72E64D7862825EBC4&profile=pass
+#EXTINF:-1 tvg-id="60320b9d3c56682291f456571e7f1f92" tvg-name="METRO" tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" group-title="Lokal",METRO
+http://10.0.250.238:9981/stream/channelid/487273056?ticket=CAB01322FD9C2583A0B2F41276553CA5CF48EBA7&profile=pass
+#EXTINF:-1 tvg-id="8c90df8d19d4a4306b688dab62bcc653" tvg-name="NET TV" tvg-logo="http://info.iptvjoss.com/net_tv.png" group-title="Lokal",NET TV
+http://10.0.250.238:9981/stream/channelid/232755340?ticket=15CACA6D9869C799833216E5BD064B9905C21EAA&profile=pass
+#EXTINF:-1 tvg-id="6c443359d295d3743a54cea98e274f77" tvg-name="RTV" tvg-logo="http://info.iptvjoss.com/rtv.png" group-title="Lokal",RTV
+http://10.0.250.238:9981/stream/channelid/1496532076?ticket=786B0F659A6C4D7810E83178241AA06BAACF2485&profile=pass
+#EXTINF:-1 tvg-id="335c4017089b181d8e6465202cbc0289" tvg-name="TRANS 7" tvg-logo="http://info.iptvjoss.com/trans7.png" group-title="Lokal",TRANS 7
+http://10.0.250.238:9981/stream/channelid/390093875?ticket=AF17B11A9A1B2FDEB14CDCCD373BB9CC5DE6B222&profile=pass
+#EXTINF:-1 tvg-id="f417105a1af25af954323719f3a6218f" tvg-name="TRANS TV" tvg-logo="http://info.iptvjoss.com/transtv.png" group-title="Lokal",TRANS TV
+http://10.0.250.238:9981/stream/channelid/1511004148?ticket=C431BD46AC7DECD1EB85DE5D23F1F04811C61C6C&profile=pass
+#EXTINF:-1 tvg-id="98d644e632b8fe073dc7183b9f7c1b75" tvg-name="TV ONE" tvg-logo="https://images.useetv.com/logo_tvone_big1.png" group-title="Lokal",TV ONE
+http://10.0.250.238:9981/stream/channelid/1715787416?ticket=86BF9EBFAD349FB121D38915300ACB57F142D370&profile=pass
+#EXTINF:-1 tvg-id="1e411f76efad2bf85159e969f3eb9e67" tvg-name="JTV Surabaya" tvg-logo="" group-title="Lokal",JTV Surabaya
+http://10.0.250.238:9981/stream/channelid/1981759774?ticket=C694E21986F86EDF40FD1D031EDC54E3CEA52437&profile=pass
+#EXTINF:-1 tvg-id="2360659ce504e5f98bd36e9fc77d7284" tvg-name="TVRI" tvg-logo="https://images.useetv.com/logo_tvri_small1.png?v=2.0.0.13" group-title="Lokal",TVRI
+http://10.0.250.238:9981/stream/channelid/476405795?ticket=0B51A9C77FE42BD0274A076FA3307DDE69C1A85A&profile=pass
+#EXTINF:-1 tvg-id="dd4d518d9b1da79fc84aad30481b0fa4" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="Lokal",BALI TV
+http://10.0.250.238:9981/stream/channelid/223432157?ticket=ADF3AE0123864BAA0F8E67B72919E1C2136069A4&profile=pass
+#EXTINF:-1 tvg-id="bbae16a09ac2bd549bc4b076fc5ba530" tvg-name="Antara" tvg-logo="" group-title="Lokal",Antara
+http://10.0.250.238:9981/stream/channelid/538357435?ticket=4C495C3FD837BC54490587B0D0AB75A14B971FCD&profile=pass
+#EXTINF:-1 tvg-id="5e767f3443e38a818401c92b20c20b9f" tvg-name="TVN MOVIES" tvg-logo="https://images.useetv.com/logo_tvn_small.png" group-title="Film",TVN MOVIES
+http://10.0.250.238:9981/stream/channelid/880768606?ticket=43B62AAE547716EC6CF3755D622226AADDEED2D0&profile=pass
+#EXTINF:-1 tvg-id="9d932b3b48fbaa9e9f021c0abdeca9ad" tvg-name="Bioskop Indonesia" tvg-logo="" group-title="Film",Bioskop Indonesia
+http://10.0.250.238:9981/stream/channelid/992711581?ticket=D126D62B860BC370961CADF45FC588D9E6E29D96&profile=pass
+#EXTINF:-1 tvg-id="6597df74a09d479e9935ceea0e90817a" tvg-name="FOX CRIME [HD]" tvg-logo="" group-title="Film",FOX CRIME [HD]
+http://10.0.250.238:9981/stream/channelid/1960810341?ticket=3738E90B5EAF6739EE4B7B494204C140259AED24&profile=pass
+#EXTINF:-1 tvg-id="dec973f8a8a81bf5e8f9ec8a8bf1a1fc" tvg-name="CINEMAXX" tvg-logo="" group-title="Film",CINEMAXX
+http://10.0.250.238:9981/stream/channelid/2020854238?ticket=2C88FB0176B8E72D8121DAB37A726D8E7039C7BD&profile=pass
+#EXTINF:-1 tvg-id="64df2c590fdd67ba2178dc542d983406" tvg-name="FOX ACTION MOVIES" tvg-logo="" group-title="Film",FOX ACTION MOVIES
+http://10.0.250.238:9981/stream/channelid/1496112996?ticket=4920CFB4F70D283DE75D8A2ED4B3E163321BE8C3&profile=pass
+#EXTINF:-1 tvg-id="d3e46038346db0e89065531fdbc86b77" tvg-name="FOX FAMILY MOVIES" tvg-logo="" group-title="Film",FOX FAMILY MOVIES
+http://10.0.250.238:9981/stream/channelid/945874131?ticket=D1BBE30F379C119B272578A75C7B982DA4D9DCEA&profile=pass
+#EXTINF:-1 tvg-id="43837efaff72085be9117b224c00a3a4" tvg-name="FOX MOVIES" tvg-logo="" group-title="Film",FOX MOVIES
+http://10.0.250.238:9981/stream/channelid/2055111491?ticket=66D65E6E5CCEE99EED3C6905D9F474A2C1B647A7&profile=pass
+#EXTINF:-1 tvg-id="c2c853c8e4253b42d4de06de622a8c6f" tvg-name="GALAXY" tvg-logo="" group-title="Film",GALAXY
+http://10.0.250.238:9981/stream/channelid/1213450434?ticket=B31E742A864310239F3AB70D2F1D12AAFA8B7359&profile=pass
+#EXTINF:-1 tvg-id="f8be66b440e8afe02900a6c5347da09d" tvg-name="HBO FAMILY" tvg-logo="" group-title="Film",HBO FAMILY
+http://10.0.250.238:9981/stream/channelid/879148792?ticket=74FEEA9111A61994B0AE19602ED0C5FEAE60DCEE&profile=pass
+#EXTINF:-1 tvg-id="6af854a4d4bf26a068fc85766e317bd7" tvg-name="HBO HD" tvg-logo="" group-title="Film",HBO HD
+http://10.0.250.238:9981/stream/channelid/609548394?ticket=0E719D5EEE803280960D342B61257BB04F4BA2D7&profile=pass
+#EXTINF:-1 tvg-id="71ef6b13ad179ef474b2e2386857a0cd" tvg-name="HBO HITS HD" tvg-logo="" group-title="Film",HBO HITS HD
+http://10.0.250.238:9981/stream/channelid/325840753?ticket=98A6096553B2577CD5BEBAEE776ED3649721FF08&profile=pass
+#EXTINF:-1 tvg-id="27b7d037a68341c8f5e285479ab96e12" tvg-name="HBO HITS SD" tvg-logo="" group-title="Film",HBO HITS SD
+http://10.0.250.238:9981/stream/channelid/936425255?ticket=41F55484263AF2C952337AED04BB8C6F2D553C8F&profile=pass
+#EXTINF:-1 tvg-id="dc3d3cfcc2141ae39e39e7044de746e6" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="Film",HBO SIGNATURE
+http://10.0.250.238:9981/stream/channelid/2084322780?ticket=F26F155533521DEE02A4040E56D392922243A1EA&profile=pass
+#EXTINF:-1 tvg-id="363a4ff7b79d7282dd9e67a06bf3d7f1" tvg-name="HISTORY" tvg-logo="" group-title="Film",HISTORY
+http://10.0.250.238:9981/stream/channelid/2001680950?ticket=B77C2C5402C3811E513DB636A6BE9EE58FE248B7&profile=pass
+#EXTINF:-1 tvg-id="1f332a32c3aa09d6292694951263c60e" tvg-name="KBS World" tvg-logo="" group-title="Film",KBS World
+http://10.0.250.238:9981/stream/channelid/841626399?ticket=9DE3D23DB8C6E3DA1AC7A8DBF075ACAC25B99E86&profile=pass
+#EXTINF:-1 tvg-id="2feee57585189ba44e79a1cf458a35a4" tvg-name="ZEE BIOSKOP" tvg-logo="" group-title="Film",ZEE BIOSKOP
+http://10.0.250.238:9981/stream/channelid/1978002991?ticket=6F1A422FAC91B9ABDA02C9CA903C8BBB5699C292&profile=pass
+#EXTINF:-1 tvg-id="b07f8b263d77a889f310a6bad0fbd7e3" tvg-name="THRILL" tvg-logo="" group-title="Film",THRILL
+http://10.0.250.238:9981/stream/channelid/646676400?ticket=EAD73624E53A197367A6F32531AA398FA614EADC&profile=pass
+#EXTINF:-1 tvg-id="32db27ef362e2c1e0368c010fc794d9d" tvg-name="STAR CHINNESE" tvg-logo="" group-title="Film",STAR CHINNESE
+http://10.0.250.238:9981/stream/channelid/1864882994?ticket=6CD9F45A0EFECDBC1605F9451F268B1C0E0B13B5&profile=pass
+#EXTINF:-1 tvg-id="231d96d340a5d95decc54623cb7577af" tvg-name="RED BY HBO" tvg-logo="" group-title="Film",RED BY HBO
+http://10.0.250.238:9981/stream/channelid/1402346787?ticket=FF1660CB378E99CB369B1D4F8CEDCEE8B9E16795&profile=pass
+#EXTINF:-1 tvg-id="9ebd44cb029cc1911d2502634b6e1e1c" tvg-name="CNN INDONESIA" tvg-logo="" group-title="Berita",CNN INDONESIA
+http://10.0.250.238:9981/stream/channelid/1262796190?ticket=441F9E31584ADF392CEA28DDB3E4964E6648FBD6&profile=pass
+#EXTINF:-1 tvg-id="e202a7577c45515aa3479ac70b2f1fa1" tvg-name="CRIME INVESTIGATION" tvg-logo="" group-title="Berita",CRIME INVESTIGATION
+http://10.0.250.238:9981/stream/channelid/1470563042?ticket=A8E5DB422809E0E557BDB727511C0D83B90FB3E5&profile=pass
+#EXTINF:-1 tvg-id="a7185faec5fdedca5f17b4f8b2a14f8d" tvg-name="RRI NET" tvg-logo="" group-title="Berita",RRI NET
+http://10.0.250.238:9981/stream/channelid/777984167?ticket=AEB41315355D9793F473BA929AC0E505EDE82B75&profile=pass
+#EXTINF:-1 tvg-id="465c1aee8e0b178738051302c556ea2a" tvg-name="Sea Today SD" tvg-logo="" group-title="Berita",Sea Today SD
+http://10.0.250.238:9981/stream/channelid/1847221318?ticket=21B3203EB724D960A85DB912301DBE6B0B7833EA&profile=pass
+#EXTINF:-1 tvg-id="531d302fd1987e30ef336d9e0fe8681f2" tvg-name="BOOMERANG" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="Kids",BOOMERANG
+#EXTINF:-1 tvg-id="7070c243aa6a2e6072cb60cd3729536a" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="Kids",Baby First
+http://10.0.250.238:9981/stream/channelid/1136816240?ticket=4B343EC24DDC38030733F751A9D3873F8177E608&profile=pass
+#EXTINF:-1 tvg-id="b90e6f1cb1f2214e1977fc08cfb5ea33" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="Kids",CARTOON NETWORK
+http://10.0.250.238:9981/stream/channelid/477040313?ticket=C1DDBEDBB496EB56DC405A61D2F4F179FCA839DB&profile=pass
+#EXTINF:-1 tvg-id="2664d5416ba358a83bb29a1c837f5edd" tvg-name="DA VINCI KIDS" tvg-logo="" group-title="Kids",DA VINCI KIDS
+http://10.0.250.238:9981/stream/channelid/1104503846?ticket=0856CA7C0DEF26145BA560B31A5AE442D08179DA&profile=pass
+#EXTINF:-1 tvg-id="58d3c4389c4cc7ce217d1e96c6b8e53f" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="Kids",DISNEY CHANNEL
+http://10.0.250.238:9981/stream/channelid/952423256?ticket=DA401D41B7BDD6B7B86BDD6057EECDDDDE8151BE&profile=pass
+#EXTINF:-1 tvg-id="6c9de9cc5db3acea99faa6377210d5f7" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="Kids",DISNEY JUNIOR
+http://10.0.250.238:9981/stream/channelid/1290378604?ticket=0A7894E103921FFD084F8B63F430A486FCED11DD&profile=pass
+#EXTINF:-1 tvg-id="48584efc865d4a5b1aaa509971180cb7" tvg-name="DREAMWORKS" tvg-logo="" group-title="Kids",DREAMWORKS
+http://10.0.250.238:9981/stream/channelid/2085509192?ticket=85FAE0AD5AE48FCCA098B112B8A5AE6C33DA126E&profile=pass
+#EXTINF:-1 tvg-id="dd2dc2d91e216dbcc4da6cc79aedc360" tvg-name="NICK JR" tvg-logo="" group-title="Kids",NICK JR
+http://10.0.250.238:9981/stream/channelid/1505897949?ticket=3EFC1BF0E5C1FAB7AD4FFA306D3C01374CE1C097&profile=pass
+#EXTINF:-1 tvg-id="53227b8b72d4ec9b480b6b5231a211fe" tvg-name="NICKELODEON" tvg-logo="" group-title="Kids",NICKELODEON
+http://10.0.250.238:9981/stream/channelid/192619091?ticket=F8053788AEAC7E86DC594F7C33D1C7BC09BEDF85&profile=pass
+#EXTINF:-1 tvg-id="5f9635bb47534ff39bf0c4d30d6ea114" tvg-name="TV 4# Dunia Anak" tvg-logo="" group-title="Kids",TV 4# Dunia Anak
+http://10.0.250.238:9981/stream/channelid/993367647?ticket=5A45AD7EF1C9945200B132D6AEE3195FF80538DD&profile=pass
+#EXTINF:-1 tvg-id="166f612ef68be8853aba7c8653c5b980" tvg-name="Champions TV1" tvg-logo="" group-title="Sport",Champions TV1
+http://10.0.250.238:9981/stream/channelid/778137366?ticket=35693C2458C5533E21EEE7E593E6EC645BB4C59A&profile=pass
+#EXTINF:-1 tvg-id="316ed18c686acc7adb8416a0f852d1c8" tvg-name="Champions TV2" tvg-logo="" group-title="Sport",Champions TV2
+http://10.0.250.238:9981/stream/channelid/215051825?ticket=BBF1A95158FD95AD83ABB10A806EA328B604F338&profile=pass
+#EXTINF:-1 tvg-id="46b1723e6c080359ed4d7f849a361524" tvg-name="BEIN SPORTS 1" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="Sport",BEIN SPORTS 1
+http://10.0.250.238:9981/stream/channelid/1047703878?ticket=62E59B78361073FFB12CE5992A21818ED0CBA643&profile=pass
+#EXTINF:-1 tvg-id="fd66ebafb0db283ad9b8b6d94423cc18" tvg-name="BEIN SPORTS 2" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sport",BEIN SPORTS 2
+http://10.0.250.238:9981/stream/channelid/803956477?ticket=1F432D8A2343F9A558B2D34159871ABFAD004E7B&profile=pass
+#EXTINF:-1 tvg-id="e40c72c0536b25922385549fc07c4fea" tvg-name="FOX SPORTS" tvg-logo="" group-title="Sport",FOX SPORTS
+http://10.0.250.238:9981/stream/channelid/1081216228?ticket=1E3676517C8E6E452EAD42C5ECD1B08A1DA33C40&profile=pass
+#EXTINF:-1 tvg-id="ad366d2aba67a13bc729e25cb514520c" tvg-name="FOX SPORTS 2" tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://10.0.250.238:9981/stream/channelid/711800493?ticket=AFA32A8C4F4988BAD6B0D7430C03ED476DDB0732&profile=pass
+#EXTINF:-1 tvg-id="0608b164b415edbf4d1be8752bf7ddb5" tvg-name="FOX SPORTS 3" tvg-logo="" group-title="Sport",FOX SPORTS 3
+http://10.0.250.238:9981/stream/channelid/1689323526?ticket=D82E8508B591F9AD9F5C32CB4F84C83361B7177A&profile=pass
+#EXTINF:-1 tvg-id="bbc9ca70aa12823b7de2d114602ddf3b" tvg-name="FIGHT" tvg-logo="" group-title="Sport",FIGHT
+http://10.0.250.238:9981/stream/channelid/1892338107?ticket=F3E82A42E5F875B1A31D5B20614CF77517AD0E23&profile=pass
+#EXTINF:-1 tvg-id="b36f9fb8981028ffa40b888473aa9594" tvg-name="CGTN DOCUMENTARY SD" tvg-logo="" group-title="Hiburan",CGTN DOCUMENTARY SD
+http://10.0.250.238:9981/stream/channelid/949972915?ticket=E6087E6EADC6326979BBCD5B4569BC2CB9724334&profile=pass
+#EXTINF:-1 tvg-id="0d9258fa483bc1cafe7c72817ae0eb2e" tvg-name="CITRA DANGDUT" tvg-logo="" group-title="Hiburan",CITRA DANGDUT
+http://10.0.250.238:9981/stream/channelid/2052624909?ticket=59DE8F467B850C9A9355D1734B75C361E4A026A3&profile=pass
+#EXTINF:-1 tvg-id="8b195419dd8bdd37603116d513ec83a6" tvg-name="Channel HD-23 LIFETIME HD" tvg-logo="" group-title="Hiburan",Channel HD-23 LIFETIME HD
+http://10.0.250.238:9981/stream/channelid/424941963?ticket=4109611579E2C5D784F84079A5098FAE6E06B9DF&profile=pass
+#EXTINF:-1 tvg-id="6b6081ff6eb298b13b4d1dd1baaffb5a" tvg-name="NAT GEO" tvg-logo="" group-title="Hiburan",NAT GEO
+http://10.0.250.238:9981/stream/channelid/2139185259?ticket=1D3F4080DDC2D4F349FE86B3391C6444C548FB66&profile=pass
+#EXTINF:-1 tvg-id="0b4716e285c86d92da4ffe67535904e0" tvg-name="NAT GEO WILD" tvg-logo="" group-title="Hiburan",NAT GEO WILD
+http://10.0.250.238:9981/stream/channelid/1645627147?ticket=07A1234A160DA6877F396B6B1D7739F86B30FBAD&profile=pass
+#EXTINF:-1 tvg-id="0b4716e285c86d92da4ffe67535904e0" tvg-name="KOSONG" tvg-logo="" group-title="Hiburan",KOSONG
+http://10.0.250.238:9981/stream/channelid/2097337137?ticket=AC490F7C9F8E3AC2474E62D1DFD635B9FF923954&profile=pass
